@@ -2,7 +2,7 @@
 <h2>Índice de contenidos</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgheadline1">Instalación de git</a></li>
+<li><a href="#orgheadline1">Instalación</a></li>
 <li><a href="#orgheadline2">GitHub</a></li>
 <li><a href="#orgheadline3">Llave SSH</a></li>
 <li><a href="#orgheadline4">Configuración</a></li>
